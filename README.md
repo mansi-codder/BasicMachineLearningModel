@@ -21,10 +21,10 @@ Our model is ready to use.Let's save it to disk.
 
 
 ### Lets take 2 real world example :
-> # Case 1: Here assume that selected_boot_size = 31
+> #### Case 1: Here assume that selected_boot_size = 31
 ![image](https://github.com/mansi-codder/BasicMachineLearningModel/assets/47288219/c91ca257-4a58-4baf-b824-45d06fd1035d)
 
-> # Case 2: Here assume that selected_boot_size = 32
+> #### Case 2: Here assume that selected_boot_size = 32
 ![image](https://github.com/mansi-codder/BasicMachineLearningModel/assets/47288219/fc0aeeee-d31e-41d5-9ead-9f63e29fd2e8)
 
 In this exercise, we practiced:
